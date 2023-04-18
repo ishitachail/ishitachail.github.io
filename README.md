@@ -1,6 +1,6 @@
 > # Ishita Chail
 
->> ![ishitachail_profilepic](https://user-images.githubusercontent.com/54792560/232719516-3d5118d8-c52f-4ca1-a1b5-ff5cc42b8f2a.jpg) 
+>> <img src="https://user-images.githubusercontent.com/54792560/232725723-e97407b9-f2f9-4e3f-a7ba-022d205d433a.jpg" width="200" height="100"> 
 
 >> Email: <ishita.shilpa.chail@gmail.com>
           <chail.partha.22031@iitgoa.ac.in>
