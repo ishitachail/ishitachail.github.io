@@ -3,7 +3,7 @@
  
  <img src="https://user-images.githubusercontent.com/54792560/232725723-e97407b9-f2f9-4e3f-a7ba-022d205d433a.jpg" width="292" height="372"> 
 
-> Email: <ishita.shilpa.chail@gmail.com> <br>        <chail.partha.22031@iitgoa.ac.in>
+> Email: <ishita.shilpa.chail@gmail.com>         
 
 # About #
 Welcome to my profile page! I am a computer science student who is passionate about technology.
