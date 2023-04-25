@@ -17,7 +17,7 @@ As a computer science student, I have honed my skills in various programming lan
 ---
 
 | Academic year  |  Standard     |  School Name         |
----------------------------------------------------------
+-----------------|---------------|----------------------|
 | 2007-2020      |  KG to 10th   | Abhinava Vidhyalya   |
 | 2020-2022      | 11th - 12th   |  Pace                | 
 
